@@ -150,3 +150,10 @@ await callWebhook({
 [Next: Documentation](02_Documentation.md)
 
 ---
+
+### Teamstarter's other libraries
+
+- [GraphQL-Sequelize-Generator](https://teamstarter.github.io/GSG-documentation/)
+  - A Graphql API generator based on Sequelize.
+- [GraphQL-Node-Jobs](https://teamstarter.github.io/GNJ-documentation/)
+  - A job scheduler, a runner and an interface to manage jobs. In one lib.
